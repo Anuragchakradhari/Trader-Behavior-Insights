@@ -31,5 +31,3 @@ The historical trader dataset used in this project is approximately 45MB and exc
 
 Due to data size and privacy considerations, the raw dataset is not uploaded to this repository.
 The analysis code is fully reproducible and assumes the dataset to be present locally as `historical_data.csv`.
-
-A sample of the dataset structure is provided below.
